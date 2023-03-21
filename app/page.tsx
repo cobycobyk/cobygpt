@@ -11,9 +11,9 @@ export default function Home() {
             <h2>Examples</h2>
           </div>
           <div className='space-y-2'>
-            <p className='infoText'>"Explain quantum computing in simple terms"</p>
-            <p className='infoText'>"Got any creative ideas for a 10 year old's birthday?"</p>
-            <p className='infoText'>"How do I make an HTTP request in Javascript"</p>
+            <p className='infoText'>`Explain quantum computing in simple terms`</p>
+            <p className='infoText'>`Got any creative ideas for a 10 year old`s birthday?`</p>
+            <p className='infoText'>`How do I make an HTTP request in Javascript`</p>
           </div>
         </div>
         <div>
@@ -23,7 +23,7 @@ export default function Home() {
           </div>
           <div className='space-y-2'>
             <p className='infoText'>Remembers what user said earlier in the conversation</p>
-            <p className='infoText'>Messages are stored in Firebase's Firestore</p>
+            <p className='infoText'>Messages are stored in Firebase`s Firestore</p>
             <p className='infoText'>Hot Toast notifications when ChatGPT is thinking!</p>
           </div>
         </div>
