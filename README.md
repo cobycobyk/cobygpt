@@ -1,13 +1,9 @@
-Chat GPT Clone
+## CobyGPT
 
-Full-Stack web app
+Live Demo 👉 chatgpt-clone-beige.vercel.app
 
-Technologies Used:
+![screenshot](https://i.imgur.com/zN4AzXs.png)
 
--Typescript
--Next.js 13
--Tailwind CSS
--NextAuth
--Firebase
--Vercel
--OpenAI API
+## Full Stack ChatGPT Web App
+### Technologies Used
+> Typescript | Next.js 13 | Tailwind CSS | NextAuth | Firebase | Vercel | OpenAI API | swr
