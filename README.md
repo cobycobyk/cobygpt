@@ -1,6 +1,6 @@
 ## CobyGPT
 
-Live Demo 👉 chatgpt-clone-beige.vercel.app
+Live Demo 👉 [chatgpt-clone-beige.vercel.app](chatgpt-clone-beige.vercel.app)
 
 ![screenshot](https://i.imgur.com/zN4AzXs.png)
 
